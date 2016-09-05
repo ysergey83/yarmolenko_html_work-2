@@ -1,0 +1,35 @@
+body {
+
+  background-color: #f1f1f1;
+  font-family: Arial, bold;
+}
+
+.wrapper {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1 {text-align: center;
+    text-transform: uppercase;
+   }
+
+img {
+   	display: block;
+    margin: 0 auto;
+    max-width: 200px;
+    border: 1px solid black;
+   }
+
+.loyer {
+margin-left: 0;
+  }
+
+p, a{margin-left: 60px;}
+
+div {
+  border-bottom: 1px solid gray;
+  padding-bottom: 10px;
+}
+.feedback, .wrapper {
+  border-bottom: none;
+}
